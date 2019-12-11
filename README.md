@@ -11,3 +11,4 @@ Additional information on SMA YASDI at https://www.heiko-pruessing.de/projects/y
 
 Please edit the yasdi.ini as needed and edit the pathes  of yasdi.ini and the YASDI Libraries on your system in yasdiwrapper.py as needed.
 
+Import yasdiwrapper.py in your python software.
