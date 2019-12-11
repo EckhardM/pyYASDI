@@ -1,5 +1,5 @@
 # pyYASDI
-Python 3 Wrapper for SMA YASDI C Library
+Python Wrapper for SMA YASDI C Library 
 
 This is based on https://github.com/joachimlindborg/yasdiXMPP
 
@@ -9,6 +9,6 @@ Please install SMA YASDI according the SMA documentation: https://www.sma.de/fil
 
 Additional information on SMA YASDI at https://www.heiko-pruessing.de/projects/yasdi/yasdi.php
 
-Please edit the yasdi.ini as needed and edit the pathes  of yasdi.ini and the YASDI Libraries on your system in yasdiwrapper.py as needed.
+Please edit the yasdi.ini as needed and edit the paths of yasdi.ini and the YASDI Libraries on your system in yasdiwrapper.py as needed.
 
-Import yasdiwrapper.py in your python software.
+Import yasdiwrapper.py in your python software
