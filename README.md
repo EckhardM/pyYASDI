@@ -7,6 +7,8 @@ pyYASDI provides a Python3 wrapper for the SMA YASDI software to read data from 
 
 Please install SMA YASDI according the SMA documentation: https://www.sma.de/fileadmin/content/global/Products/Documents/Monitoring_Systems/YASDI-TDE084020.pdf
 
+libyasdiarmhk.tar contains the libraries compiled for ARM devices (Raspberry Pi).
+
 Additional information on SMA YASDI at https://www.heiko-pruessing.de/projects/yasdi/yasdi.php
 
 Please edit the yasdi.ini as needed and edit the paths of yasdi.ini and the YASDI Libraries on your system in yasdiwrapper.py as needed.
