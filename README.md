@@ -18,4 +18,4 @@ Please edit the yasdi.ini as needed and edit the paths of yasdi.ini and the YASD
 
 Import yasdiwrapper.py in your python software
 
-Tested with Python 2.7 and Python 3.5
+Tested with Python 2.7 and Python 3
