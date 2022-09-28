@@ -3,7 +3,7 @@ Python Wrapper for SMA YASDI C Library
 
 This is based on https://github.com/joachimlindborg/yasdiXMPP
 
-pyYASDI provides a Python3 wrapper for the SMA YASDI software to read data from SMA Converters.
+pyYASDI provides a Python3 wrapper for the SMA YASDI C software to read data from SMA Converters.
 Source: https://www.sma.de/produkte/apps-software/yasdi
 
 Detailled information on YASDI and Download: https://www.heiko-pruessing.de/projects/yasdi/yasdi.php
