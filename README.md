@@ -3,13 +3,16 @@ Python Wrapper for SMA YASDI C Library
 
 This is based on https://github.com/joachimlindborg/yasdiXMPP
 
-pyYASDI provides a Python3 wrapper for the SMA YASDI software to read data from SMA Converters https://www.sma.de/produkte/monitoring-control/yasdi.html
+pyYASDI provides a Python3 wrapper for the SMA YASDI software to read data from SMA Converters.
+Source: https://www.sma.de/produkte/apps-software/yasdi
 
-Please install SMA YASDI according the SMA documentation: https://www.sma.de/fileadmin/content/global/Products/Documents/Monitoring_Systems/YASDI-TDE084020.pdf
+Detailled information on YASDI and Download: https://www.heiko-pruessing.de/projects/yasdi/yasdi.php
+
+Technical Details: 
+* https://www.heiko-pruessing.de/projects/yasdi/yasdi_technical.php
+* https://www.heiko-pruessing.de/projects/yasdi/yasdi-tutorial-c.html
 
 libyasdiarmhk.tar contains the YASDI libraries compiled for ARM devices (Raspberry Pi).
-
-Additional information on SMA YASDI at https://www.heiko-pruessing.de/projects/yasdi/yasdi.php
 
 Please edit the yasdi.ini as needed and edit the paths of yasdi.ini and the YASDI Libraries on your system in yasdiwrapper.py as needed.
 
