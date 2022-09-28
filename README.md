@@ -12,7 +12,7 @@ Technical Details:
 * https://www.heiko-pruessing.de/projects/yasdi/yasdi_technical.php
 * https://www.heiko-pruessing.de/projects/yasdi/yasdi-tutorial-c.html
 
-libyasdiarmhk.tar contains the YASDI libraries compiled for ARM devices (Raspberry Pi).
+libyasdiarmhk.tar contains the YASDI libraries compiled for ARM devices (Raspberry Pi), extract that to your library path (e.g. /usr/local/lib ) 
 
 Please edit the yasdi.ini as needed and edit the paths of yasdi.ini and the YASDI Libraries on your system in yasdiwrapper.py as needed.
 
