@@ -6,11 +6,7 @@ This is based on https://github.com/joachimlindborg/yasdiXMPP
 pyYASDI provides a Python3 wrapper for the SMA YASDI C software to read data from SMA Converters.
 Source: https://www.sma.de/produkte/apps-software/yasdi
 
-Detailled information on YASDI and Download: https://www.heiko-pruessing.de/projects/yasdi/yasdi.php
-
-Technical Details: 
-* https://www.heiko-pruessing.de/projects/yasdi/yasdi_technical.php
-* https://www.heiko-pruessing.de/projects/yasdi/yasdi-tutorial-c.html
+Detailled information on YASDI with downloads, technical details and tutorials: https://www.heiko-pruessing.de/projects/yasdi/
 
 The File libyasdiarmhf.tar contains the YASDI libraries compiled for ARM devices (Raspberry Pi), extract that to your library path (e.g. /usr/local/lib ). 
 
