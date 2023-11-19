@@ -1,3 +1,5 @@
+Hint: This is outdated, please use https://github.com/MOS6510/YasdiPythonWrapper instead!
+
 # pyYASDI
 Python Wrapper for SMA YASDI C Library 
 
